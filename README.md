@@ -1,2 +1,2 @@
 # Simple-Inventory-System
-Sql Crud
+Basic Simple CRUD Inventory System
