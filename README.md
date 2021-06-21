@@ -1,2 +1,2 @@
 # Simple-Inventory-System
-Simple CRUD Inventory System
+Java Simple CRUD Inventory System
